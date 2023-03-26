@@ -4,10 +4,9 @@
 <h3>&#128421;&#65039; Tech Stack Used</h3>
 <hr>
 
-<h4>&#x2022; HTML</h4>
+
+<h4>&#x2022; React JS</h4>
 <h4>&#x2022; CSS</h4>
-<h4>&#x2022; JavaScript</h4>
-<h4>&#x2022; React</h4>
 <hr>
 
 
